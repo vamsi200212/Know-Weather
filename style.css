@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.search:hover{
+    color: rgb(44, 128, 223);
+    background-color: rgb(44, 128, 223);
+}
+
+.search{
+    color: white;
+    background-color: white;
+}
+body{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    position: sticky;
+    background-image: linear-gradient(rgba(0,0,0,0.6)50%,rgba(0,0,0,0.6)50%),url(bg-img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
